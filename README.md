@@ -8,7 +8,7 @@ Welcome to my personal website! This website serves as my portfolio, showcasing 
 ## 🚀 Live Demo
 
 You can visit my website here:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://https://jazzy-beijinho-1e71b4.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://https://jazzy-beijinho-1e71b4.netlify.app)
 
 ---
 
